@@ -3,8 +3,8 @@ import requests
 import time
 import re
 
-idname = "407410044"
-passwd = "abc2201726"
+idname = "xxxxxx"
+passwd = "xxxxxx"
 
 def login():
     url = "https://kiki.ccu.edu.tw/~ccmisp06/cgi-bin/class_new/bookmark.php"
