@@ -1,6 +1,6 @@
 # ccu_courseRobot
 
-## 使用
+## 如何使用
 添加想要的課程資訊
 1. 向度(cge_subcate)
 2. 課程編號(course_id)
